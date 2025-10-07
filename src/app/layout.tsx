@@ -17,8 +17,8 @@ const outfit = Outfit({
 
 export const metadata: Metadata = {
   title: {
-    default: "notayan.",
-    template: "%s | notayan.",
+    default: "kisswemusic.",
+    template: "%s | kisswemusic.",
   },
   description: "Definetly not a developer.",
   metadataBase: new URL(
@@ -28,8 +28,8 @@ export const metadata: Metadata = {
   ),
   openGraph: {
     title: {
-      default: "notayan.",
-      template: "%s | notayan.",
+      default: "kisswemusic.",
+      template: "%s | kisswemusic.",
     },
     description: "Definetly not a developer.",
     type: "website",
@@ -39,14 +39,14 @@ export const metadata: Metadata = {
         url: "/opengraph-image.png",
         width: 1200,
         height: 630,
-        alt: "notayan. - Personal Website",
+        alt: "kisswemusic. - Personal Website",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    site: "@notayan99",
-    creator: "@notayan99",
+    site: "@kisswemusic",
+    creator: "@kisswemusic",
     images: ["/opengraph-image.png"],
   },
   icons: {
