@@ -11,10 +11,10 @@ import { TechGear } from "@/components/tech-gear";
 import { PageContainer } from "@/components/page-container";
 
 export const metadata: Metadata = {
-  title: "Ayan Biswas | Portfolio",
+  title: "Kisswe Music| Portfolio",
   description: "Graphic Designer based in Assam, India",
   openGraph: {
-    title: "Ayan Biswas | Portfolio",
+    title: "Kisswe Music| Portfolio",
     description: "Graphic Designer based in Assam, India",
   },
 };
@@ -35,7 +35,7 @@ export default function Home() {
                 <span className="text-sm font-mono">DESCRIPTION.md</span>
               </h2>
               <p className="px-5 py-3">
-                I&apos;m not trying to sound all fancy here. Welcome to my personal site. I&apos;m Ayan Biswas, a graphic designer based in Assam, India. I&apos;m 22. For work inquiries, feel free to hit me up through my social media handles.
+                I&apos;m not trying to sound all fancy here. Welcome to my personal site. I&apos;m Kisswe Music, a graphic designer based in Assam, India. I&apos;m 22. For work inquiries, feel free to hit me up through my social media handles.
               </p>
             </div>
             <div className="w-full bg-background rounded-lg border border-border">
